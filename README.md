@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=049DE9&width=1000&lines=Hi+there%2C+my+name+is+Maria+Eduarda!👋" alt="Typing SVG"/></a>
 Welcome to my profile!
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-mariaeduardamatosmarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaeduardamatosmarques/)](https://www.linkedin.com/in/aleschopf/) [![Gmail Badge](https://img.shields.io/badge/-mariaeduarda.matos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariaeduarda.matos@gmail.com)](mailto:mariaeduarda.matos@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-mariaeduardamatosmarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaeduardamatosmarques/)](https://www.linkedin.com/in/mariaeduardamatosmarques/) [![Gmail Badge](https://img.shields.io/badge/-mariaeduarda.matos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariaeduarda.matos@gmail.com)](mailto:mariaeduarda.matos@gmail.com) 
 
 ## About me
 
