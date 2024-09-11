@@ -12,3 +12,4 @@ Welcome to my profile!
 💡 &nbsp;Focused on solving real-world problems through coding and technology.<br>
 📈 &nbsp;Eager to contribute to open-source projects and collaborate with the tech community to learn and grow.<br>
 
+![GitHub Snake Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?username=mariaemrqs)
